@@ -4,6 +4,13 @@ This resource pack is tested with 1.20.1, but other versions may work.
 
 Anglish containes english tooltips that I wrote while stoned. I didn't want to fit it anywhere else. It seemed offensive.
 
+## Language support
+The following languages are supported:
+
+- US English (for generic tooltips)
+- Canadian English (for my personal tooltips)
+- Anglish (used for stoner tooltips)
+
 ## Version support
 - [ ] 1.12.2 (impossible and unsupported)
 - [X] 1.16.3 - 1.16.5 (tips only)
