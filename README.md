@@ -20,10 +20,10 @@ The following languages are supported:
 - [X] 1.21.x (1.21.1 has both, 1.21.2+ only has Item Tooltips)
 
 ## Mod support
-[X] Tips (by Darkhax)
- [X] Immersive Tips (by Txni)
-[X] Expanded Tooltips (by KingRolly)
-[ ] Item Tooltips (by Rebel459)
+- [X] Tips (by Darkhax)
+    - [X] Immersive Tips (by Txni)
+- [X] Expanded Tooltips (by KingRolly)
+- [ ] Item Tooltips (by Rebel459)
 
 # Installation
 
