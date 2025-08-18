@@ -23,6 +23,7 @@ The following languages are supported:
 - [X] Tips (by Darkhax)
     - [X] Immersive Tips (by Txni)
 - [X] Expanded Tooltips (by KingRolly)
+- [X] Item Descriptions (by Cassian)
 
 # Installation
 
