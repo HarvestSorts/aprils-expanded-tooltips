@@ -15,9 +15,9 @@ The following languages are supported:
 - [ ] 1.12.2 (impossible and unsupported)
 - [X] 1.16.3 - 1.16.5 (tips only)
 - [X] 1.18.x (tips only)
-- [X] 1.19.2 - 1.19.4 (untested, should support all)
-- [X] 1.20.1 (all tip types, only with Expanded Tooltips)
-- [X] 1.21.x (1.21.1 has both, 1.21.2+ only has Item Tooltips)
+- [X] 1.19.2 - 1.19.4
+- [X] 1.20.1
+- [X] 1.21.x (1.21.2+ only has Item Descriptions)
 
 ## Mod support
 - [X] Tips (by Darkhax)
