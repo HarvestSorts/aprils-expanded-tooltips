@@ -1,3 +1,9 @@
 {
-    "block.minecraft.dirt.expanded_tooltips.desc": "you need a lot of these for the farms"
+    "block.minecraft.dirt.expanded_tooltips.desc": "you need a lot of these for the farms",
+    "item.minecraft.dried_kelp.expanded_tooltips.desc": "cool but hard to digest fast",
+    "item.minecraft.sweet_berries.expanded_tooltips.desc": "don't come across these often",
+    "item.biomeswevegone.blueberries.expanded_tooltips.desc": "a yummy snack",
+    "item.aether.blue_berry.expanded_tooltips.desc": "a yummy snack",
+    "item.aether.zanite_ore.expanded_tooltips.desc": "these gems are amazing and get faster with time. keep them secret. keep them safe.",
+    "item.aether.gravitite_shovel.expanded_tooltips.desc": "handy shovelling tool"
 }
