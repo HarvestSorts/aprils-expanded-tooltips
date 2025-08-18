@@ -1,10 +1,10 @@
 {
   "title": {
-    "text": "Custom Title",
+    "text": "HEY!",
     "bold": true,
     "color": "green"
   },
   "tip": {
-    "text": "This tip is an example tip."
+    "translate": "apriltips.tip.imhigh"
   }
 }
