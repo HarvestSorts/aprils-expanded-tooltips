@@ -1,0 +1,18 @@
+{ 
+  "pack": {
+    "pack_format": 15,
+    "description": "A resource pack with custom tooltips"
+  },
+  "language": {
+    "enp": {
+      "name": "Stoner English",
+      "region": "Anglish",
+      "bidirectional": false
+    },
+	"en_CA": {
+      "name": "English",
+      "region": "Canada",
+      "bidirectional": false
+    }
+  }
+}
