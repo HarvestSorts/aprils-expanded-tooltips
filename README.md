@@ -2,14 +2,14 @@
 A bunch of item tooltips and loading screen tips intended for Cloverfield Origins, a private friends-only Minecraft SMP. On 1.21.x, there are more general descriptions.  
 This resource pack is tested with 1.20.1, but other versions may work.
 
-Anglish containes english tooltips that I wrote while stoned. I didn't want to fit it anywhere else. It seemed offensive.
+# Support
 
 ## Language support
 The following languages are supported:
 
-- US English (for generic tooltips)
-- Canadian English (for my personal tooltips)
-- Anglish (used for stoner tooltips)
+- US English (generic tooltips)
+- Canadian English (personalized tooltips intended for april)
+- Anglish (tooltips written by a stoner)
 
 ## Version support
 - [ ] 1.12.2 (impossible and unsupported)
@@ -21,6 +21,16 @@ The following languages are supported:
 
 ## Mod support
 [X] Tips (by Darkhax)
-    [X] Immersive Tips (by Txni)
+ [X] Immersive Tips (by Txni)
 [X] Expanded Tooltips (by KingRolly)
 [ ] Item Tooltips (by Rebel459)
+
+# Installation
+
+## Stable builds (release)
+There are no stable builds at this time.
+
+## Nightly builds (in-dev)
+1. Click "Code"
+2. Click "Download ZIP"
+3. Place the downloaded zip in your Resource Packs directory
