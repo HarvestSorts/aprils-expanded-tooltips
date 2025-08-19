@@ -23,7 +23,7 @@ Note that English (US) and English (CA) are the same, except that CA has persona
 
 ## Mod support
 - [X] Tips (by Darkhax)
-    - [X] Immersive Tips (by Txni)
+    - [ ] Immersive Tips (by Txni)
 - [X] Expanded Tooltips (by KingRolly)
 - [X] Item Descriptions (by Cassian)
 
@@ -36,3 +36,6 @@ There are no stable builds at this time.
 1. Click "Code"
 2. Click "Download ZIP"
 3. Place the downloaded zip in your Resource Packs directory
+
+# Known incompatibilties
+- Immersive Tips
