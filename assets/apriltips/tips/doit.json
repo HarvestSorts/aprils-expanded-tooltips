@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "If you want something done right away, do it yourself."
+  }
+}

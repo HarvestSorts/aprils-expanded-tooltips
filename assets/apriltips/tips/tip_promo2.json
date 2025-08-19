@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Sponsored",
+    "bold": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "April's Tooltips actually has no sponsors. The sponsor title is used for these silly tip types!"
+  }
+}
