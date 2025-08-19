@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Not so fun fact",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "Tips only lets you set custom tips past 1.12 if you make a resource pack!",
+    "bold": false,
+    "color": "white"
+  }
+}

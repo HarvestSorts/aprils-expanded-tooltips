@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "We are legion. We are anonymous.",
+    "bold": false,
+    "color": "white"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Ashfield Origins has surpassed Cloverfield Gamma in Gameplay. Whereas Gamma was briefly active a few times a week, Ashfield Origins has officially obtained more progress with the same peak of three members.",
+    "bold": false,
+    "color": "white"
+  }
+}

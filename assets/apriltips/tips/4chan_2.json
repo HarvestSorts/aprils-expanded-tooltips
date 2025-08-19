@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Remember to consult rule 14 often!",
+    "bold": false,
+    "color": "white"
+  }
+}

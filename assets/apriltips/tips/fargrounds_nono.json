@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "You don't EVER talk about Fargrounds.",
+    "bold": false,
+    "color": "white"
+  }
+}

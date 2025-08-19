@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Life isn't getting easier. You're just getting used to how hard things can be.",
+    "bold": false,
+    "color": "white"
+  }
+}

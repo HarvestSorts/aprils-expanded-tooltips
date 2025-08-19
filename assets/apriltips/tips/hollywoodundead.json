@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "April's first exposure to one of their favorite bands, Hollywood Undead, was through a YouTube video.",
+    "bold": false,
+    "color": "white"
+  }
+}

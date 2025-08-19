@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Cloverfield Gamma was a modded server, with a shrine intended to donate to AntlerEgo and shower them in gifts for lore reasons. Gamma ended up dying for Classic later on, which was a server with no actual lore, except for outside lore involving beef with former hosting staff.",
+    "bold": false,
+    "color": "white"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Not so fun fact",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "Cloverfield 2025 died on July 3rd 2025 following a crash out by April over a plugin that improperly implemented per-world datapacks.",
+    "bold": false,
+    "color": "white"
+  }
+}

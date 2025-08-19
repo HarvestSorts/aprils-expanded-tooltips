@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Nothing is sacred in love and war.",
+    "bold": false,
+    "color": "white"
+  }
+}

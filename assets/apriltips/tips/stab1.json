@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Smart people create homes for people who never got involved. Idiots ride the wave and kill their own project after talking too much shit.",
+    "bold": false,
+    "color": "white"
+  }
+}

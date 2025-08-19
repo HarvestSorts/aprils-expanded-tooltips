@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Some rotten fruit don't fall very far from the apple tree.",
+    "bold": false,
+    "color": "white"
+  }
+}

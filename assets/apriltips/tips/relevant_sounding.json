@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "If no good words seem to come to mind, just say something totally random!",
+    "bold": false,
+    "color": "white"
+  }
+}

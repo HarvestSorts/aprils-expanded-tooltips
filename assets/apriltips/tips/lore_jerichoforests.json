@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Jericho's forests are not a force to be reckoned with. Some say that 20 minutes deep in the forest is enough to be at a high risk of getting lost.",
+    "bold": false,
+    "color": "white"
+  }
+}

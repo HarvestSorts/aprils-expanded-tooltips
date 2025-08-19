@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Making good tips? Ain't nobody got time for that!",
+    "bold": false,
+    "color": "white"
+  }
+}

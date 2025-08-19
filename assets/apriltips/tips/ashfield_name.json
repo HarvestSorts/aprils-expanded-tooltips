@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "The names \"Cloverfield\" and \"Ashfield\" originate from the swedish band Normandie's top song, \"White Flag\"",
+    "bold": false,
+    "color": "white"
+  }
+}

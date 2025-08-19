@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "This resource pack of tips was created because April has to make it to make custom tips!",
+    "bold": false,
+    "color": "white"
+  }
+}

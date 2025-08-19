@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Cloverfield 2022's modded network, Bendnet, was once opened up to the public. A few people were added about a month or two before Cloverfield 2022's first server draft (V1) died to be recreated.",
+    "bold": false,
+    "color": "white"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Roughly 50% of all Cloverfield 2022 members were Spartan SMP refugees!",
+    "bold": false,
+    "color": "white"
+  }
+}
