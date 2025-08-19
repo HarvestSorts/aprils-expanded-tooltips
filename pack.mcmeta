@@ -13,6 +13,11 @@
       "name": "English",
       "region": "Canada",
       "bidirectional": false
+    },
+   "en_US": {
+      "name": "English",
+      "region": "United States",
+      "bidirectional": false
     }
   }
 }
