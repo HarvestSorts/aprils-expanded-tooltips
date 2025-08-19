@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Werewolves mine very slow if they have an item in their hand.",
+    "bold": false,
+    "color": "white"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip",
+    "bold": true,
+    "color": "gold"
+  },
+  "tip": {
+    "text": "Werewolves can eat blueberries from The Aether.",
+    "bold": false,
+    "color": "white"
+  }
+}
