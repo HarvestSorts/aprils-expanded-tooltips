@@ -57,5 +57,6 @@
     "item.aether.zanite_shovel.expanded_tooltips.desc": "A fast shovel, but by the time you noticed its speed, it's too late.",
     "item.aether.gravitite_shovel.expanded_tooltips.desc": "A very efficient mining tool.\nMakes dirt, gravel and sand go bye bye if you right click!",
     "item.farmersdelight.onion.expanded_tooltips.desc": "An alright snack.\nI should bake with these instead of eating them raw...",
-    "item.origins.orb_of_origin.expanded_tooltips.desc": "A shiny orb that lets you change your family lineage."
+    "item.origins.orb_of_origin.expanded_tooltips.desc": "A shiny orb that lets you change your family lineage.",
+    "item.minecraft.wooden_axe.expanded_tooltips.desc": "Good for early game, but useless otherwise..."
 }
