@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "HEY!",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "translate": "apriltips.tip.startofcloverfield"
+  }
+}
