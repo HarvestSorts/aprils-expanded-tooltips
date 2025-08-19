@@ -7,9 +7,11 @@ This resource pack is tested with 1.20.1, but other versions may work.
 ## Language support
 The following languages are supported:
 
-- US English (generic tooltips)
-- Canadian English (personalized tooltips intended for april)
-- Anglish (tooltips written by a stoner)
+- English (United States)
+- English (Canada)
+- Anglish (Tips written while high)
+
+Note that English (US) and English (CA) are the same, except that CA has personally tailored tips.
 
 ## Version support
 - [ ] 1.12.2 (impossible and unsupported)
