@@ -2,22 +2,5 @@
   "pack": {
     "pack_format": 15,
     "description": "April's Custom Tooltips\n(enp/en_US/en_CA)"
-  },
-  "language": {
-    "enp": {
-      "name": "Stoner English",
-      "region": "Anglish",
-      "bidirectional": false
-    },
-	"en_CA": {
-      "name": "English",
-      "region": "Canada",
-      "bidirectional": false
-    },
-   "en_US": {
-      "name": "English",
-      "region": "United States",
-      "bidirectional": false
-    }
   }
 }
