@@ -58,5 +58,6 @@
     "lore.farmersdelight.onion": "An alright snack.\nI should bake with these instead of eating them raw...",
     "lore.origins.orb_of_origin": "A shiny orb that lets you change your family lineage.",
     "lore.minecraft.rotten_flesh": "This would be more filling for a wolf.",
-    "lore.minecraft.wooden_axe": "Good for early game, but useless otherwise..."
+    "lore.minecraft.wooden_axe": "Good for early game, but useless otherwise...",
+    "item.minecraft.iron_sword.expanded_tooltips.desc": "Battle tested."
 }
