@@ -59,5 +59,6 @@
     "item.farmersdelight.onion.expanded_tooltips.desc": "An alright snack.\nI should bake with these instead of eating them raw...",
     "item.origins.orb_of_origin.expanded_tooltips.desc": "A shiny orb that lets you change your family lineage.",
     "item.minecraft.wooden_axe.expanded_tooltips.desc": "Good for early game, but useless otherwise...",
-    "item.minecraft.iron_sword.expanded_tooltips.desc": "Battle tested."
+    "item.minecraft.iron_sword.expanded_tooltips.desc": "Battle tested.",
+    "item.minecraft.stone_sword.expanded_tooltips.desc": "A common choice among witherkin. A little weak.\nTakes four hits to kill a person, more for some mobs..."
 }
