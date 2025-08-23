@@ -57,5 +57,6 @@
     "item.aether.gravitite_shovel.expanded_tooltips.desc": "A very efficient mining tool.\nMakes dirt, gravel and sand go bye bye if you right click!",
     "item.farmersdelight.onion.expanded_tooltips.desc": "An alright snack.",
     "item.origins.orb_of_origin.expanded_tooltips.desc": "A shiny orb that lets you change your family lineage.",
-    "item.minecraft.wooden_axe.expanded_tooltips.desc": "Your first wood breaker, possibly your first weapon."
+    "item.minecraft.wooden_axe.expanded_tooltips.desc": "Your first wood breaker, possibly your first weapon.",
+    "item.minecraft.glowstone_dust.expanded_tooltips.desc": "Essential for making Glowstone."
 }

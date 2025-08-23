@@ -60,5 +60,6 @@
     "item.origins.orb_of_origin.expanded_tooltips.desc": "A shiny orb that lets you change your family lineage.",
     "item.minecraft.wooden_axe.expanded_tooltips.desc": "Good for early game, but useless otherwise...",
     "item.minecraft.iron_sword.expanded_tooltips.desc": "Battle tested.",
-    "item.minecraft.stone_sword.expanded_tooltips.desc": "A common choice among witherkin. A little weak.\nTakes four hits to kill a person, more for some mobs..."
+    "item.minecraft.stone_sword.expanded_tooltips.desc": "A common choice among witherkin. A little weak.\nTakes four hits to kill a person, more for some mobs...",
+    "item.minecraft.glowstone_dust.expanded_tooltips.desc": "Essential for making Glowstone."
 }
