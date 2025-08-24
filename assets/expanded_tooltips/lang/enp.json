@@ -59,5 +59,7 @@
     "item.aether.zanite_shovel.expanded_tooltips.desc": "add me",
     "item.aether.gravitite_shovel.expanded_tooltips.desc": "handy shovelling tool",
     "item.farmersdelight.onion.expanded_tooltips.desc": "it's okay, i guess",
-    "item.origins.orb_of_origin.expanded_tooltips.desc": "time to pick a new man!"
+    "item.origins.orb_of_origin.expanded_tooltips.desc": "time to pick a new man!",
+    "block.biomeswevegone.sakura_log.expanded_tooltips.desc": "sweet wood",
+    "block.biomeswevegone.sakura_planks.expanded_tooltips.desc": "for the mansion"
 }
